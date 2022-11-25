@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=gottaegbert&color=6D9B77&label=Visitor+count)
 
 <p align="center">
-  <a href="https://github.com/AdityaKumar28">
+  <a href="https://github.com/gottaegbert">
     <img src="https://github-readme-stats.vercel.app/api?username=gottaegbert&show_icons=true&theme=github_dark&hide_border=true" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=gottaegbert&theme=github-dark-blue&hide_border=true" />
     <img src="https://activity-graph.herokuapp.com/graph?username=gottaegbert&theme=react-dark" />
