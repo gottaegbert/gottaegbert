@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 ![](https://komarev.com/ghpvc/?username=gottaegbert&color=6D9B77&label=Visitor+count)
 
+- 🔭 currently working on Voiseed.
+
 <p align="center">
   <a href="https://github.com/gottaegbert">
     <img src="https://github-readme-stats.vercel.app/api?username=gottaegbert&show_icons=true&theme=github_dark&hide_border=true" />
