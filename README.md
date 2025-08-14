@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 ![](https://komarev.com/ghpvc/?username=gottaegbert&color=6D9B77&label=Visitor+count)
 
-- 🔭 currently working on Voiseed.
+Design Engineer for your product! Design directly to bulding. 
+3D/DataVis lover.
 
 <p align="center">
   <a href="https://github.com/gottaegbert">
