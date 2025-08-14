@@ -23,7 +23,6 @@ Design Engineer for your product! Design directly to bulding.
   <a href="https://github.com/gottaegbert">
     <img src="https://github-readme-stats.vercel.app/api?username=gottaegbert&show_icons=true&theme=github_dark&hide_border=true" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=gottaegbert&theme=github-dark-blue&hide_border=true" />
-    <img src="https://activity-graph.herokuapp.com/graph?username=gottaegbert&theme=react-dark" />
   </a>
 </p>
 
