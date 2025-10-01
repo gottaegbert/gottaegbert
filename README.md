@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=gottaegbert&color=6D9B77&label=Visitor+count)
 
 Design Engineer for your product! Design directly to bulding. 
-3D/DataVis lover.
+3D/DataVis lover. check: ![siyu's bento](https://bento.me/siyuhu)
 
 <p align="center">
   <a href="https://github.com/gottaegbert">
